@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smaruf
 - 👀 I’m interested in coding and new technology
 - 🌱 I’m currently learning Golang and React-Native
-- 💞️ I’m looking to collaborate on Java, C#, Python, jQuery, Spring
+- 💞️ I’m looking to collaborate on Java, C#, Python, Flask, jQuery, Spring, Golang, Echo
 - 📫 How to reach me: https://www.linkedin.com/in/muhammad-shamsul-maruf-79905161/
 
 <!---
