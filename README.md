@@ -7,7 +7,7 @@
 - 💞️ Looking to collaborate on projects involving Java, C#, Python, Flask, jQuery, Spring, Golang, and Echo.
 - 🌱 Eager to learn about AWS, Google Cloud, and Azure.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/muhammad-shamsul-maruf-79905161/).
-- 🏬 [Resume](https://github.com/smaruf/readings/blob/master/interview/Muhammad_Shamsul_Maruf_CV.pdf)
+- 🏬 [Resume](https://github.com/smaruf/readings/blob/master/interview/docs/Muhammad_Shamsul_Maruf_CV.pdf)
 
 <!---
 smaruf/smaruf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
