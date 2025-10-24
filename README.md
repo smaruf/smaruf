@@ -18,8 +18,9 @@
 const smaruf = {
     pronouns: "He" | "Him",
     location: "Bangladesh 🇧🇩",
+    locationTRC: "Gdansk, Poland PL",
     interests: ["Coding", "New Technologies", "Problem Solving"],
-    currentlyLearning: ["Golang", "React Native"],
+    currentlyLearning: ["Golang", "React Native", "Kotlin"],
     lookingToCollaborate: true,
     funFact: "I turn coffee into code ☕️"
 };
