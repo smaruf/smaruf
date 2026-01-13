@@ -58,21 +58,6 @@ const smaruf = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=smaruf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smaruf&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaruf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
 ## 📄 Resume & Documents
 
 <div align="center">
@@ -81,7 +66,7 @@ const smaruf = {
   [![Details](https://img.shields.io/badge/📋_Details-Resume-green?style=for-the-badge)](https://github.com/smaruf/readings/blob/master/interview/docs/Resume_Details.md)
   [![Short](https://img.shields.io/badge/📝_Short-Version-orange?style=for-the-badge)](https://github.com/smaruf/readings/blob/master/interview/docs/README.md)
   [![PDF](https://img.shields.io/badge/📑_Detailed-PDF-red?style=for-the-badge)](https://github.com/smaruf/readings/blob/master/interview/docs/Muhammad_Shamsul_Maruf_Detail_CV_250707_2.pdf)
-  [![Profile](https://img.shields.io/badge/👤_Profile-Summary-purple?style=for-the-badge)](https://github.com/smaruf/readings/blob/master/interview/docs/Profile_250928.pdf)
+  [![Profile](https://img.shields.io/badge/👤_Profile-Summary-purple?style=for-the-badge)](https://github.com/smaruf/readings/blob/master/interview/docs/0105%20Muhammad_Shamsul_Maruf_CV_EU.pdf)
   
 </div>
 
